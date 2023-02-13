@@ -1,10 +1,10 @@
 <?php
 $name = $_GET["p"];
 switch ($name){
-case "969c454b6c645ce69c50c9b3b2084fcb2ff889e1":
+case "af24a3cde6abf8c4cd14c0e0370097f613e8e4f8":
 	$name = "Borko";
 	break;
-case "112ca67a59d47a8a8bd7ef8f73fc0c46a1a01211":
+case "2e9a54f81c6d7bb115fb67057cf072c61d88b81c":
 	$name = "Danka";
 	break;
 case "e1764f500cc9ec4ed2e45e4bbc91a411f6010694":
@@ -12,6 +12,9 @@ case "e1764f500cc9ec4ed2e45e4bbc91a411f6010694":
 	break;
 case "32a25b55833137fbbd35ffcbd4925d4484ce140f":
 	$name = "Petra";
+	break;
+case "5d2c1e68585beb6c1beb91874ed71ee338ad39ce":
+	$name = "Simca";
 	break;
 default:
 	$name = "Wrong name";
