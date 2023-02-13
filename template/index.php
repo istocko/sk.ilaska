@@ -1,21 +1,21 @@
 <?php
 $name = $_GET["p"];
 switch ($name){
-case "Borko":
+case "969c454b6c645ce69c50c9b3b2084fcb2ff889e1":
 	$name = "Borko";
 	break;
-case "Danuss":
+case "112ca67a59d47a8a8bd7ef8f73fc0c46a1a01211":
 	$name = "Danka";
 	break;
-case "Majkiki":
+case "e1764f500cc9ec4ed2e45e4bbc91a411f6010694":
 	$name = "Majka";
 	break;
-case "Trinity":
+case "32a25b55833137fbbd35ffcbd4925d4484ce140f":
 	$name = "Petra";
 	break;
 default:
 	$name = "Wrong name";
-	die("Wrong valentine!");
+	die("Wrong valentine Email or Name!");
 }
 
 ?>
